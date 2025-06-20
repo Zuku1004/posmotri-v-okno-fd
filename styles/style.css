@@ -223,6 +223,7 @@ ol {
   grid-template-columns: 711px 399px;
   gap: 27px;
   align-items: end;
+  padding-top: 141px;
 }
 
 .content__details {
